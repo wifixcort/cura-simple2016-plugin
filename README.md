@@ -1,4 +1,4 @@
-# cura-simple2016-plugin with Standalone version
+# cura-simple2016-plugin & Standalone version
 
 This plugin will post process standard Cura (15.x) output and prepare it for printing with Printrbot Simple 2016. It was written by Rob Giseburt from TinyG team.
 The purpose of it is to demonstrate how to convert standard "Marlin" style gcode into something that Printrbot Simple (TinyG G2) understands.
