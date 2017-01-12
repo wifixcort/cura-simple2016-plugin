@@ -17,11 +17,10 @@ You can use simple_converter.py too, for convert Simplify3d gcode, just delete S
 
 ###Usage
 
-```$python simple_converter.py --eto [eto] --fanOutput [fanOutput] --fanMinInValue [fanMinInValue] --fanMaxOutValue [fanMaxOutValue] --minTraverseSpeed [minTraverseSpeed] --file [gcodeFile]"
-```
-```
-$python simple_converter.py -eto [eto] -fo [fanOutput] -fmino [fanMinInValue] -fmaxo [fanMaxOutValue] -mint [minTraverseSpeed] -f file.gco"
-```
+```$python simple_converter.py --eto [eto] --fanOutput [fanOutput] --fanMinInValue [fanMinInValue] --fanMaxOutValue [fanMaxOutValue] --minTraverseSpeed [minTraverseSpeed] --file [gcodeFile]" ```
+
+``` $python simple_converter.py -eto [eto] -fo [fanOutput] -fmino [fanMinInValue] -fmaxo [fanMaxOutValue] -mint [minTraverseSpeed] -f file.gco" ```
+
 If you gone a use default parameters just do:
 
 ```$python simple_converter.py  -f file.gco" ```
